@@ -1,2 +1,2 @@
 # BLOC1-SLAM
-print('Hello, world!')
+print('Hello world !')
